@@ -73,10 +73,13 @@ docker build -t codevopshub/codeeducation . -f Dockerfile.prod
 ```
 docker run codevopshub/codeeducation
 ```
-![](image/go-scratch.png)
+![FullCycle banner logo](/DockerHub.png)
+## Imagem no Docker Hub
+
+```
+docker pull codevopshub/codeeducation:latest
+```
 
 ## Referências
-- http://goporexemplo.golangbr.org/hello-world.html
 - https://hub.docker.com/_/scratch/
 - https://hub.docker.com/_/golang/
-- https://imasters.com.br/desenvolvimento/compilacao-estatica-com-golang/
