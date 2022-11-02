@@ -1,8 +1,8 @@
 ![FullCycle banner logo](/fullcycle.jpeg)
 
-## Projeto prático: Otimização de uma imagem golang
+## Desafio prático: Otimização de uma imagem golang
 
-### Descrição do projeto 
+### Descrição do Desafio 
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
