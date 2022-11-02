@@ -66,7 +66,7 @@ O parâmetro -s remove informações de debug do executável e o -w impede a ger
 ## Build 
 
 ```
-docker build -t codevopshub/codeeducation . -f Dockerfile.prod
+docker build -t <seu-user>/codeeducation . -f Dockerfile.prod
 ```
 
 ## Run
